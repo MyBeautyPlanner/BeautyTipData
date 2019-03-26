@@ -1,2 +1,2 @@
 # BeautyTipData
-BeautyTipData {"pictureName":"https://www.baidu.com", "title":"Cleansing mask","category":"2", "content":"http://www.71192.com"}
+BeautyTipData {"pictureName":"https://www.baidu.com", "title":"Cleansing mask","category":"hair", "content":"http://www.qhcftong.com/download2.html"}
